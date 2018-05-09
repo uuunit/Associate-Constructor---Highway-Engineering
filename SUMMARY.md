@@ -71,7 +71,7 @@
         * 2B313035 桥头跳车的防治
     * [2B314000 公路隧道工程](2B310000/2b314000-gong-lu-sui-dao-gong-cheng.md)
       * [2B314010 隧道工程](2B310000/2b314010-sui-dao-gong-cheng.md)
-        * [2B314011 隧道结构组成](2B310000/2b314011-sui-dao-jie-gou-zu-cheng.md)
+        * [2B314011 隧道结构组成](2B310000/2b314000/2b314011-sui-dao-jie-gou-zu-cheng.md)
         * [2B314012 隧道围岩分级](2B310000/2b314012-sui-dao-wei-yan-fen-ji.md)
         * [2B314013 隧道施工](2B310000/2b314013-sui-dao-shi-gong.md)
       * [2B314020 隧道施工测量和监控量测技术](2B310000/2b314020-sui-dao-shi-gong-ce-liang-he-jian-kong-liang-ce-ji-zhu.md)
